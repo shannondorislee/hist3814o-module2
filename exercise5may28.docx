@@ -1,0 +1,8 @@
+    1  sudo pip install --upgrade setuptools
+    2  sudo pip install https://github.com/DocNow/twarc/archive/v1.2.0.tar.gz
+    3  twarc configure
+    4  twarc search hist3814o > search.json
+    5  twarc stream
+    6  sudo npm install json2csv --save -g
+    7  json2csv -i search.json -o out.csv
+    8  history > exercise5may28.docx
