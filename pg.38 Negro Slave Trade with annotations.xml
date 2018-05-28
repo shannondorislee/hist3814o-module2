@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>38</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+               <p> 
+               	It may be true, that their groans do not echo, nor their chains clank, around the walls of our Parliament, as around those of Congress; but how many owners of slaves may be reckoned in the two branches of our legislature, whose voice, during the last thirty years, may possibly have assisted in preventing either the echo of the groan, or the clank of the chain, from reaching our ears? But it has been beyond the power of the loudest clamours either of interest or prejudice to drown them entirely; and the stifled sigh, the suppressed but imploring murmur, have only pierced the deeper into the heart, on account of the distance from which they have been wafted, and the efforts made to obstruct their passage. But whether the British Parliament catch the sound or not, it has entered, doubtless, "into the ears of the Lord of Saboath." And if it be true, as we do most conscientiously believe it to be that "*the existence of slavery in America is an atrocious crime with which no measures can be kept*" is it possible for us to contemplate its existence within the British dominions in a less fearful light? </p> 
+               <p> 
+               	But we shall be told, that the slavery existing in our <placeName key="West Indian colonies" ref="https://en.wikipedia.org/wiki/West_Indies"> West Indian colonies </placeName> differs materially in many respects from that which prevails in the <placeName key="United States" ref="https://en.wikipedia.org/wiki/United_States"> United States </placeName>. We do not mean to deny this. <interp key="True, because this seems like a justificaion that would have been used to promote slavery" n="We believe that, in one or two particulars, the comparison might prove favourable to our own colonies." cert="medium" ref="https://en.wikisource.org/wiki/Brazilian_and_United_States_Slavery_Compared">We believe that, in one or two particulars, the comparison might prove favourable to our own colonies. </interp> The slaves suffer less from cold in the <placeName key="West Indies" ref="https://en.wikipedia.org/wiki/West_Indies"> West Indies </placeName> than in America; and we do not mean to affirm that they are *excluded* from places of worship, however infrequently they may, in point of fact, attend them. In all the grand and essential points of personal comfort, however, the balance turns greatly on the other side. In <placeName key="America" ref="https://en.wikipedia.org/wiki/United_States"> America </placeName>, they are in general more abundantly supplied with food. The labour of the field is there, too, for the most part, of a lighter kind than on sugar plantations. Task work is also more prevalent in</p> 
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
